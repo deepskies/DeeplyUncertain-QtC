@@ -4,4 +4,5 @@ Plotting steps from Rachel:
 
 2. Then I modified a version of the notebook from DeeplyUncertain-Public to read in and process Scott's data, and make plots.  That notebook version is in this directory.  It needs the "Python - AI" kernel to run the later bits (which use tensorflow).
 
-3. It needs data_gen from the other repo, so you can copy this with a different name back to where those files live.
+3. It needs data_gen from the other repo, so you can copy this back to where those files live.
+
